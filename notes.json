@@ -1,0 +1,18 @@
+{
+    "notes": [
+        {
+            "id": 1,
+            "title": "first",
+            "body": "first text",
+            "creation_time": "2023-07-20 15:44:48.400357",
+            "last_modified_time": "2023-07-20 15:44:48.400357"
+        },
+        {
+            "id": 2,
+            "title": "second",
+            "body": "second text",
+            "creation_time": "2023-07-20 15:45:17.399435",
+            "last_modified_time": "2023-07-20 15:45:17.399435"
+        }
+    ]
+}
